@@ -75,4 +75,4 @@ plt.legend()
 plt.show()
 
 accu = max(accuracy)
-print(accu)
+print(accu) #printing the accuracy of the model
